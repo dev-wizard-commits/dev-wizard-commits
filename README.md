@@ -10,6 +10,7 @@
 - AI / Machine Learning (TensorFlow, PyTorch, or Keras)
 - Deep Learning / Natural Language Processing (NLP)
 - Flutter / Dart
+- Vibe Coding
 
 #### I am good in ❤
 
